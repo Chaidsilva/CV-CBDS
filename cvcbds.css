@@ -1,0 +1,114 @@
+h1{
+    color: #DDA0DD;
+    font-family: impact;
+    text-align: center;
+    text-shadow: 0.2em 0.2em 0.2em black
+}
+
+h2{
+	text-align: center;
+	text-decoration: overline;
+	text-shadow: 0.1em 0.2em 0.2em #DDA0DD
+}
+#general{
+	border: solid 3px black;
+	width: 700px;
+	margin-left: 300px;
+	background-color: rgb(255, 230, 230)
+
+}
+
+body{
+	background-image:url(https://a-static.besthdwallpaper.com/one-piece-donquixote-doflamingo-warlord-fond-d-ecran-2048x1536-8489_26.jpg);
+	background-position: fixed;
+	}
+
+#bandeau{
+	/*border: solid 3px black;*/
+	width: 100%;
+	height: 40px;
+	margin: 0 auto;
+	/*margin-left: 300px;*/
+	background-color: white 
+}
+h3{
+	color: black;
+	text-align: center;
+}
+#dofla{
+	width: 250px;
+	height:250px;
+	margin: 0 auto;
+	border-radius: 50%;
+	margin-left: 32%;
+}
+h4{
+	text-decoration: underline;
+	font-style: oblique;
+	text-align: center;
+	text-shadow: 0 0 0.2em #DDA0DD, 0 0 0.2em #DDA0DD
+
+}
+p{
+	font-style:italic;
+}
+td{
+	border: 1px solid black;
+}
+
+.flex {
+	display: flex;
+	justify-content: space-around;
+}
+
+table{
+	border-collapse: collapse;
+	text-align: center;
+}
+td{
+	border:1px solid black;
+}
+#conteneur{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.element{
+	margin: auto;
+
+}
+img{
+	width: 180px;
+	height: 150px;
+	display: flex;
+	flex-direction: column;
+	align-content: space-around;
+}
+
+h5{
+	color: black
+		margin-left
+		
+}
+.photos{
+	/*width:200px;*/
+	height:230px;
+}
+
+#bandeau2{
+	/*border: solid 3px black;*/
+	width: 100%;
+	height: 125px;
+	margin: 0 auto;
+	/*margin-left: 300px;*/
+	background-color: white 
+}
+#tableau{
+	display: flex;
+}
+.perstech{
+	display: inline;
+	padding: 10px;
+}
